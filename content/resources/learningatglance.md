@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: This resource provides information regarding various algorithms, their
+  inputs, the outputs, their complexity control and notes.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-947-medical-artificial-intelligence-spring-2005/68f31dd84178fd5c43783c87fe6cc7d0_learningatglance.pdf
+file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
+resourcetype: Document
+title: learningatglance.pdf
+uid: 68f31dd8-4178-fd5c-4378-3c87fe6cc7d0
+---
