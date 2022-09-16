@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Projects section inclues three sample final term papers submitted by
+  the students.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

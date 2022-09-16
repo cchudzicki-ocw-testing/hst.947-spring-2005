@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains an overview for the course, along with
+  the prerequisites, major topics to be covered, grading criteria and desired subject
+  outcomes for the course 6.034.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -22,7 +25,7 @@ HST.947 meets with and builds upon the lectures and recitations of 6.034: Artif
 
 At each week's discussion session for HST.947, we will discuss a topic in the medical applications of AI, based on papers that are to have been read before class.
 
-[6.034 Syllabus](/courses/6-034-artificial-intelligence-spring-2005/content/pages/syllabus)
+[6.034 Syllabus](/courses/6-034-artificial-intelligence-spring-2005/pages/syllabus)
 
 Grading
 -------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section lists the suggested readings for the course as per
+  the lecture topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

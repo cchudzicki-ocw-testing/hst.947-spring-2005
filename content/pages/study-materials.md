@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The study materials section lists study guides required for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
